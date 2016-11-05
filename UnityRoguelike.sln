@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityRoguelike.CSharp", "UnityRoguelike.CSharp.csproj", "{0959D692-9F43-870A-0A4C-6CB8B06116F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityRoguelike.CSharp.Editor", "UnityRoguelike.CSharp.Editor.csproj", "{0DD8771C-AFFE-B110-E893-726C77D33C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0959D692-9F43-870A-0A4C-6CB8B06116F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0959D692-9F43-870A-0A4C-6CB8B06116F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0959D692-9F43-870A-0A4C-6CB8B06116F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0959D692-9F43-870A-0A4C-6CB8B06116F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD8771C-AFFE-B110-E893-726C77D33C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD8771C-AFFE-B110-E893-726C77D33C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD8771C-AFFE-B110-E893-726C77D33C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD8771C-AFFE-B110-E893-726C77D33C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
